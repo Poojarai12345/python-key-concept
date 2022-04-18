@@ -6,3 +6,7 @@ map={
 
 print(map)
 print(map['sno'])
+print(list(map.keys()))
+
+map['desig']= 'Manager'
+print(map)
